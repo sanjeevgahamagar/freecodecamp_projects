@@ -28,4 +28,6 @@ _User Story #9_: The img element should be centered within its parent element.
 
 [Codepen](https://codepen.io/sanjeevgaha/full/bGVWgga "Tribute Page")
 
-<!-- code block -->
+> Screenshot
+
+![Preview](./preview.png "preview")
