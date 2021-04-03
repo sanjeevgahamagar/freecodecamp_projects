@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;700&display=swap');
 
 /* css reset */
 * {
@@ -8,21 +8,21 @@
 }
 /* color variables */
 :root {
-    --master-color:#BBE3E5;
-    --foreground:#54C5C2;
-    --footer:#00AEAC;
+    --master-color:rgb(179, 178, 178);
+    --foreground:#fff;
+    --footer:#fff;
 }
 
 
 /* global styles */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     font-size: 16px;
     line-height: 1;
     display: flex;
     justify-content: center;
     background-color: var(--master-color);
-    color: white;
+    color: black;
 }
 div {
     text-align: justify;
